@@ -1,0 +1,11 @@
+TransactionID,Amount,Transaction_Time,Card_Type,Merchant,Location,International_Transaction,Previous_Fraud,Fraud
+1,250.75,14,Visa,Amazon,New York,0,0,0
+2,5000.00,22,MasterCard,Walmart,Los Angeles,1,0,1
+3,120.50,9,Amex,BestBuy,Chicago,0,1,0
+4,9999.99,3,Discover,Starbucks,Houston,1,1,1
+5,47.30,16,Visa,Apple,San Francisco,0,0,0
+6,680.45,19,MasterCard,Amazon,New York,1,0,1
+7,312.10,11,Amex,Walmart,Los Angeles,0,0,0
+8,89.99,7,Discover,BestBuy,Chicago,0,1,0
+9,7645.25,20,Visa,Starbucks,Houston,1,0,1
+10,23.99,13,MasterCard,Apple,San Francisco,0,0,0
